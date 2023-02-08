@@ -1,7 +1,7 @@
 /*
  *  Implmentation of templated heap methods
  *  The class Container must satisfy the cpp standard sequence container requirements
- *  The class Compare must be a valid comparator. If none is passed, std::less is used.
+ *  The class Compare must be a valid comparator. If none is passed, std::less is used
  *  Written by Zach Schrag
 */
 
