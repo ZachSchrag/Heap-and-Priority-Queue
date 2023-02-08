@@ -1,8 +1,8 @@
 /*
  *  Implmentation of a templated priority queue using my heap methods from "heap.h"
- *  The class Comparable must be comparable for the operator passed to Compare. E.g., the < operator.
- *  The class Container must satisfy the cpp standard sequence container requirements. If none is passed, std::vector is used.
- *  The class Compare must be a valid comparator. If none is passed, std::less is used.
+ *  The class Comparable must be comparable for the operator passed to Compare. E.g., the < operator
+ *  The class Container must satisfy the cpp standard sequence container requirements. If none is passed, std::vector is used
+ *  The class Compare must be a valid comparator. If none is passed, std::less is used
  *  Written by Zach Schrag
 */
 
